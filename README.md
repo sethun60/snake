@@ -1,0 +1,1 @@
+This is a famous snake game built using Javascript and jQuery.
